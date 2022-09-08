@@ -1,0 +1,10 @@
+C:\Users\Bogomil\source\repos\CasinoApp\CasinoApp\bin\Debug\CasinoApp.exe.config
+C:\Users\Bogomil\source\repos\CasinoApp\CasinoApp\bin\Debug\CasinoApp.exe
+C:\Users\Bogomil\source\repos\CasinoApp\CasinoApp\bin\Debug\CasinoApp.pdb
+C:\Users\Bogomil\source\repos\CasinoApp\CasinoApp\obj\Debug\CasinoApp.csprojAssemblyReference.cache
+C:\Users\Bogomil\source\repos\CasinoApp\CasinoApp\obj\Debug\CasinoApp.Form1.resources
+C:\Users\Bogomil\source\repos\CasinoApp\CasinoApp\obj\Debug\CasinoApp.Properties.Resources.resources
+C:\Users\Bogomil\source\repos\CasinoApp\CasinoApp\obj\Debug\CasinoApp.csproj.GenerateResource.cache
+C:\Users\Bogomil\source\repos\CasinoApp\CasinoApp\obj\Debug\CasinoApp.csproj.CoreCompileInputs.cache
+C:\Users\Bogomil\source\repos\CasinoApp\CasinoApp\obj\Debug\CasinoApp.exe
+C:\Users\Bogomil\source\repos\CasinoApp\CasinoApp\obj\Debug\CasinoApp.pdb
